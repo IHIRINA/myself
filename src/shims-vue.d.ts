@@ -3,6 +3,3 @@ declare module '*.vue' {
     const component: DefineComponent<{}, {}, any>;
     export default component;
 }
-//git init
-//git remote add origin 
-//git remote -v
