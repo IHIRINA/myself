@@ -1,4 +1,4 @@
-```
+
 //git init
 
 //git remote add origin 
@@ -15,4 +15,7 @@
 //git pull origin main
 
 //git clone
-```
+//git branch  //本地所有分支
+//git checkout -b 分支名    //新建分支并切换
+
+
