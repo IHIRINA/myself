@@ -21,7 +21,7 @@ export default defineConfig({
       resolvers: [ElementPlusResolver()],
     }),
     ElementPlus({
-      
+      useSource: true,
     }),
   ],
   resolve: {
